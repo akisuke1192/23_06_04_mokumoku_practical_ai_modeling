@@ -1,0 +1,2 @@
+# 23_06_04_mokumoku_practical_ai_modeling
+DSL主催の主催の「Python-実践AIモデル構築-100本ノック」のもくもく会用のリポジトリになります．
